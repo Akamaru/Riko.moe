@@ -38,7 +38,7 @@ $img = getRandomFromArray($imgList);
     <meta charset="utf-8" />
     <title>Riko</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="shortcut icon" href="favicon.ico" />
+    <link rel="shortcut icon" href="favicon.png" />
   </head>
   <body>
 	<div class="text-center"><p style="font-size:xx-large;">Press F5 for another pic!</p></div>
