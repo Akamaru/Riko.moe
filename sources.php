@@ -33,7 +33,7 @@
       <li><a href="http://wifflegif.com/gifs/515729-riko-suminoe-kiss-x-sis-gif">tumblr_n47jqpdOCi1smmytpo1_400.gif</a></li>
     </ol>
 
-<p>... <a href="http://riko.moe/">Back</a></p>
+<p><a href="http://riko.moe/">Back</a>...</p>
 
   </body>
 </html>

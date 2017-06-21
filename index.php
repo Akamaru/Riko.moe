@@ -26,7 +26,6 @@ function getRandomFromArray($ar) {
   return $ar[$num];
 }
 
-
 // Obtain list of images from directory 
 $imgList = getImagesFromDir($root . $path);
 $img = getRandomFromArray($imgList);
@@ -36,17 +35,21 @@ $img = getRandomFromArray($imgList);
 <html>
   <head>
     <meta charset="utf-8" />
-    <title>Riko</title>
+    <title>Riko.moe</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="shortcut icon" href="favicon.png" />
+    <link rel="shortcut icon" href="favicon.ico" />
   </head>
+  
   <body>
 	<div class="text-center"><p style="font-size:xx-large;">Press F5 for another pic!</p></div>
   <!-- image displays here -->
   <div class="pic-center">
     <img src="<?php echo $path . $img ?>" alt="" />
   </div>
-  <a href="sources.php">Sources</a> | <a href="riko.zip">Download all pictures</a>
-
   </body>
+	
+  <!-- Footer begins -->
+  <a href="sources.php">Sources</a> | <a href="riko.zip">Download all pictures</a> | <a href="http://yagyuu.moe" target="_blank">Yagyuu.moe</a> | <a href="mailto:miku2000@outlook.de?subject=[Riko.moe]">Mail me</a>
+  <!-- Footer ends -->
+
 </html>
