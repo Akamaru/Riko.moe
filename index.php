@@ -49,7 +49,7 @@ $img = getRandomFromArray($imgList);
   </body>
 	
   <!-- Footer begins -->
-  <a href="sources.php">Sources</a> | <a href="riko.zip">Download all pictures</a> | <a href="http://yagyuu.moe" target="_blank">Yagyuu.moe</a> | <a href="mailto:miku2000@outlook.de?subject=[Riko.moe]">Mail me</a>
+  <a href="sources.php">Sources</a> | <a href="riko.zip">Download all pictures</a> | <a href="https://yagyuu.moe" target="_blank">Yagyuu.moe</a> | <a href="mailto:miku2000@outlook.de?subject=[Riko.moe]">Mail me</a>
   <!-- Footer ends -->
 
 </html>
