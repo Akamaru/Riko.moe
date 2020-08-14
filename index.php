@@ -39,12 +39,12 @@ $img = getRandomFromArray($imgList);
     <link rel="stylesheet" href="style.css">
     <link rel="shortcut icon" href="favicon.ico" />
   </head>
-  
+
   <body>
 	<div class="text-center"><p style="font-size:xx-large;">Press F5 for another pic!</p></div>
   <!-- image displays here -->
   <div class="pic-center">
-    <img src="<?php echo $path . $img ?>" alt="" />
+    <img src="<?php echo $path . $img ?>" height="700" alt="Cute Riko <3" />
   </div>
   </body>
 	
